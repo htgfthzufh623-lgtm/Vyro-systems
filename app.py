@@ -141,4 +141,4 @@ else:
 
 # Footer
 st.markdown("---")
-st.caption("KI-Dokumentenprüfung v2.1 | Vertrauliche Verarbeitung über API
+st.caption("KI-Dokumentenprüfung v2.1 | Vertrauliche Verarbeitung über API-Schnittstelle")
