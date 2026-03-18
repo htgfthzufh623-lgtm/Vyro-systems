@@ -1,0 +1,4 @@
+streamlit
+openai
+pymupdf4llm
+pandas
